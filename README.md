@@ -15,7 +15,7 @@ Simply browse the site to see its contents, Please note this is very outdated an
 ### Deployment & Screenshot
 [Link to Deployment](https://jwilly117.github.io/First-Portfolio/)
 
-![image](https://imgur.com/S1p)
+![image](https://imgur.com/bdNlzWK.png)
 
 ### Future of this project
 The project now only serves as a reference point to look back at some of my earlier work. 

@@ -1,22 +1,21 @@
 # Portfolio - Old
 
 ### Summary
-WHHW is an intuitive way to search for events and NYT articles on a certain day, primarily a persons birthday. It pulls from the NYT API from their database of articles and from the another API for famous events in history. It then allows users to input their name or a name of their choice and share an article of their choosing to the social panel over on the left hand side of the screen
+This project was my first portfolio and is relatively outdated now, and unlinked from all of my other sites. 
 
 ### The goal of this project
-The goal was to make a simple page and catch the attention of potentially a room full of people with a quick, easy, and unique social experience based around dates in history. 
+Being one of my first "full" sites, the goal is simply to display some information about myself, contact info, and add in some links to some of my earlier projects. The site has since been redone several times and this one simply serves as a reference point for how far things have come since then. 
 
 ### File Structure
-The project is made esentially with one page styled using the materialize CSS library, and interacting with Two different API's to retrieve information. To share that information, the side pushes and pulls from a firebase table into a share section on the left. 
+This is a three page site using basic html and CSS, so its only those three basic pages constructed in html, and an assets folder which contains the few images used on the site and the CSS to style the pages. 
 
 ### Instructions
-Input your name and your desired date, usually the users birthday, and then click submit. Then the app will pull information from its two API's about relative articles and events and display them down below in two collumns. Then, if a user desires, you can share an event by clicking the button next to the article. The last 30 shared articles will reflected on the left. 
+Simply browse the site to see its contents, Please note this is very outdated and is not used to represent any current skill level. 
 
 ### Deployment & Screenshot
-[Link to Deployment]( )
+[Link to Deployment](https://jwilly117.github.io/First-Portfolio/)
 
 ![image](https://imgur.com/S1p)
 
 ### Future of this project
-The future potential of this project would be to enhance the user experience with a more fluid page, and to source information from more sources. For example, one idea was show information about famous birthdays on specified dates in history. 
-
+The project now only serves as a reference point to look back at some of my earlier work. 
